@@ -17,11 +17,11 @@
 
 ##
 ### 📊 Estatísticas
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <a href="https://github.com/brcostalop" style="text-align: center;display: flex;align-items: center;">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brcostalop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="margin-right: 10%;"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcostalop&count_private=true&layout=compact&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/bclopes008" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
